@@ -24,6 +24,8 @@
   <a href="https://www.youtube.com/channel/UCP-dpseDRWMDosY8hRitnTQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:marcelojuunior91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+  ### Um pouco sobre mim: 
+  Graduado em Ciência e Tecnologia pela Universidade do Estado do Rio Grande do Norte. Experiências nas áreas de programação "web" e dispositivos "mobile", designers gráficos utilizando o Adobe Photoshop, elaboração e execução de pesquisas científicas e artigos científicas, rotinas de atendimentos aos clientes de empresa no setor de tecnologia da informação. Bem como, no gerenciamento em equipamento de software, elaboração de treinamentos e "Brainstorming" em equipe. Sou bilíngue, ou seja, sou fluente em Português brasileiro e em Espanhol. Tenho me aprimorado cada vez mais na língua Inglesa. Tanto no inglês americano quanto no inglês britânico. Paralelamente, venho me aperfeiçoando nas áreas da Robótica, Eletrônica, Sistemas Embarcados e Internet das coisas.
   
 <!--
 **mfmjr/mfmjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
