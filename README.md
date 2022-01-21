@@ -14,10 +14,7 @@
   <img align="center" alt="Marcelo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Marcelo-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Marcelo-Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
-  <img align="center" alt="Marcelo-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-
- 
-     
+  <img align="center" alt="Marcelo-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">     
     
  ##
 
@@ -33,5 +30,8 @@
 
   ### Um pouco sobre mim: 😃💬 
 
-<p>Graduando Engenharia Mecatrônica pela Universidade Federal do Rio Grande do Norte. Experiências nas áreas como desenvolvedor <em>front-end</em> júnior, na criação, elaboração e execução de sítios eletrônicos tanto públicos quanto particulares. Assim como, em designer gráfico utilizando o <em>software</em> Adobe Photoshop. Além disso, possuo conhecimentos práticos em rotinas de atendimentos aos clientes de empresa no setor de tecnologia da informação. Bem como, no gerenciamento em equipamento de software, elaboração de treinamentos e "<em>Brainstorming</em>" em equipe. Também sou pesquisador acadêmico, disponho na elaboração e execução de pesquisas científicas e artigos científicas. Detenho conhecimento avançado na lingua espanhola. E estou me aprimorando cada vez mais na língua inglesa. Isto é, tanto no inglês americano quanto no inglês britânico. Paralelamente, venho me aperfeiçoando nas áreas da Eletrônica  voltada à internet das coisas e os processos de manutenção industrial. </p>
+<p>
+    Graduando Engenharia Mecatrônica pela Universidade Federal do Rio Grande do Norte. Experiências nas áreas como desenvolvedor <em>front-end</em> júnior, na criação, elaboração e execução de sítios eletrônicos tanto públicos quanto particulares. Assim como, em designer gráfico utilizando o <em>software</em> Adobe Photoshop. Além disso, possuo conhecimentos práticos em rotinas de atendimentos aos clientes de empresa no setor de tecnologia da informação. Bem como, no gerenciamento em equipamento de software, elaboração de treinamentos e "<em>Brainstorming</em>" em equipe. Também sou pesquisador acadêmico, disponho na elaboração e execução de pesquisas científicas e artigos científicas. Detenho conhecimento avançado na lingua espanhola. E estou me aprimorando cada vez mais na língua inglesa. Isto é, tanto no inglês americano quanto no inglês britânico. Paralelamente, venho me aperfeiçoando nas áreas da Eletrônica  voltada à internet das coisas e os processos de manutenção industrial. 
+  
+</p>
   
